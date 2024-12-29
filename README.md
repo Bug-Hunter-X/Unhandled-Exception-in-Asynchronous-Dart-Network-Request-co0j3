@@ -1,0 +1,3 @@
+# Unhandled Exception in Asynchronous Dart Network Request
+
+This repository demonstrates a common error in Dart asynchronous programming: improperly handling exceptions during network requests.  The provided code fetches data from an API and includes error handling, but the exception handling could be improved for robustness. The solution shows best practices for handling exceptions and preventing unexpected behavior.
